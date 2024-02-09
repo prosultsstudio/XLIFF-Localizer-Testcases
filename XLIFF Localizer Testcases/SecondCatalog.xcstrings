@@ -67,26 +67,26 @@
                 "plural" : {
                   "few" : {
                     "stringUnit" : {
-                      "state" : "needs_review",
-                      "value" : "%arg"
+                      "state" : "new",
+                      "value" : ""
                     }
                   },
                   "many" : {
                     "stringUnit" : {
-                      "state" : "needs_review",
-                      "value" : "%arg"
+                      "state" : "new",
+                      "value" : ""
                     }
                   },
                   "one" : {
                     "stringUnit" : {
-                      "state" : "needs_review",
-                      "value" : "%arg"
+                      "state" : "new",
+                      "value" : ""
                     }
                   },
                   "other" : {
                     "stringUnit" : {
-                      "state" : "needs_review",
-                      "value" : "%arg"
+                      "state" : "new",
+                      "value" : ""
                     }
                   }
                 }
@@ -99,26 +99,26 @@
                 "plural" : {
                   "few" : {
                     "stringUnit" : {
-                      "state" : "needs_review",
-                      "value" : "%arg"
+                      "state" : "new",
+                      "value" : ""
                     }
                   },
                   "many" : {
                     "stringUnit" : {
-                      "state" : "needs_review",
-                      "value" : "%arg"
+                      "state" : "new",
+                      "value" : ""
                     }
                   },
                   "one" : {
                     "stringUnit" : {
-                      "state" : "needs_review",
-                      "value" : "%arg"
+                      "state" : "new",
+                      "value" : ""
                     }
                   },
                   "other" : {
                     "stringUnit" : {
-                      "state" : "needs_review",
-                      "value" : "%arg"
+                      "state" : "new",
+                      "value" : ""
                     }
                   }
                 }
@@ -142,13 +142,13 @@
               "iphone" : {
                 "stringUnit" : {
                   "state" : "new",
-                  "value" : "This is the iPhone variant."
+                  "value" : ""
                 }
               },
               "other" : {
                 "stringUnit" : {
                   "state" : "new",
-                  "value" : "This is the string variant for a device other than iPhone or iPad"
+                  "value" : ""
                 }
               }
             }
@@ -190,13 +190,13 @@
               "iphone" : {
                 "stringUnit" : {
                   "state" : "new",
-                  "value" : "This is the iPhone variant."
+                  "value" : ""
                 }
               },
               "other" : {
                 "stringUnit" : {
                   "state" : "new",
-                  "value" : "This is the string variant for a device other than iPhone or iPad"
+                  "value" : ""
                 }
               }
             }

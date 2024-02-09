@@ -62,19 +62,19 @@
               "many" : {
                 "stringUnit" : {
                   "state" : "new",
-                  "value" : "There are %lld strings in the default catalog."
+                  "value" : ""
                 }
               },
               "one" : {
                 "stringUnit" : {
                   "state" : "new",
-                  "value" : "There is %lld string in the default catalog."
+                  "value" : ""
                 }
               },
               "other" : {
                 "stringUnit" : {
                   "state" : "new",
-                  "value" : "There are %lld strings in the default catalog."
+                  "value" : ""
                 }
               }
             }
