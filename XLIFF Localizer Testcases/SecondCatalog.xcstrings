@@ -1,5 +1,209 @@
 {
   "sourceLanguage" : "en",
-  "strings" : {},
+  "strings" : {
+    "A localizeable string in the second string catalog" : {
+      "comment" : "translate with care"
+    },
+    "multiple_interpolations_key" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "This test app has %#@strings@ in %#@catalogs@"
+          },
+          "substitutions" : {
+            "catalogs" : {
+              "argNum" : 1,
+              "formatSpecifier" : "lld",
+              "variations" : {
+                "plural" : {
+                  "one" : {
+                    "stringUnit" : {
+                      "state" : "translated",
+                      "value" : "one String Catalog!"
+                    }
+                  },
+                  "other" : {
+                    "stringUnit" : {
+                      "state" : "translated",
+                      "value" : "%arg separate String Catalogs!"
+                    }
+                  }
+                }
+              }
+            },
+            "strings" : {
+              "argNum" : 2,
+              "formatSpecifier" : "lld",
+              "variations" : {
+                "plural" : {
+                  "one" : {
+                    "stringUnit" : {
+                      "state" : "translated",
+                      "value" : "one localizable string"
+                    }
+                  },
+                  "other" : {
+                    "stringUnit" : {
+                      "state" : "translated",
+                      "value" : "%arg localizable strings"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : ""
+          },
+          "substitutions" : {
+            "catalogs" : {
+              "argNum" : 1,
+              "formatSpecifier" : "lld",
+              "variations" : {
+                "plural" : {
+                  "few" : {
+                    "stringUnit" : {
+                      "state" : "needs_review",
+                      "value" : "%arg"
+                    }
+                  },
+                  "many" : {
+                    "stringUnit" : {
+                      "state" : "needs_review",
+                      "value" : "%arg"
+                    }
+                  },
+                  "one" : {
+                    "stringUnit" : {
+                      "state" : "needs_review",
+                      "value" : "%arg"
+                    }
+                  },
+                  "other" : {
+                    "stringUnit" : {
+                      "state" : "needs_review",
+                      "value" : "%arg"
+                    }
+                  }
+                }
+              }
+            },
+            "strings" : {
+              "argNum" : 2,
+              "formatSpecifier" : "lld",
+              "variations" : {
+                "plural" : {
+                  "few" : {
+                    "stringUnit" : {
+                      "state" : "needs_review",
+                      "value" : "%arg"
+                    }
+                  },
+                  "many" : {
+                    "stringUnit" : {
+                      "state" : "needs_review",
+                      "value" : "%arg"
+                    }
+                  },
+                  "one" : {
+                    "stringUnit" : {
+                      "state" : "needs_review",
+                      "value" : "%arg"
+                    }
+                  },
+                  "other" : {
+                    "stringUnit" : {
+                      "state" : "needs_review",
+                      "value" : "%arg"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "string_variant_per_device" : {
+      "localizations" : {
+        "de" : {
+          "variations" : {
+            "device" : {
+              "ipad" : {
+                "stringUnit" : {
+                  "state" : "needs_review",
+                  "value" : ""
+                }
+              },
+              "iphone" : {
+                "stringUnit" : {
+                  "state" : "new",
+                  "value" : "This is the iPhone variant."
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "new",
+                  "value" : "This is the string variant for a device other than iPhone or iPad"
+                }
+              }
+            }
+          }
+        },
+        "en" : {
+          "variations" : {
+            "device" : {
+              "ipad" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "This is the iPad variant"
+                }
+              },
+              "iphone" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "This is the iPhone variant."
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "This is the string variant for a device other than iPhone or iPad"
+                }
+              }
+            }
+          }
+        },
+        "uk" : {
+          "variations" : {
+            "device" : {
+              "ipad" : {
+                "stringUnit" : {
+                  "state" : "needs_review",
+                  "value" : ""
+                }
+              },
+              "iphone" : {
+                "stringUnit" : {
+                  "state" : "new",
+                  "value" : "This is the iPhone variant."
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "new",
+                  "value" : "This is the string variant for a device other than iPhone or iPad"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
   "version" : "1.0"
 }

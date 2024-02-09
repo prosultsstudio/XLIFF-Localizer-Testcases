@@ -11,6 +11,9 @@
 		C1B742802B75F7FC003F84B7 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C1B7427F2B75F7FC003F84B7 /* ContentView.swift */; };
 		C1B742822B75F805003F84B7 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C1B742812B75F805003F84B7 /* Assets.xcassets */; };
 		C1B742852B75F805003F84B7 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C1B742842B75F805003F84B7 /* Preview Assets.xcassets */; };
+		C1B7428D2B75F987003F84B7 /* Localizable.xcstrings in Resources */ = {isa = PBXBuildFile; fileRef = C1B7428C2B75F987003F84B7 /* Localizable.xcstrings */; };
+		C1B7428F2B75FA4B003F84B7 /* SecondCatalog.xcstrings in Resources */ = {isa = PBXBuildFile; fileRef = C1B7428E2B75FA4B003F84B7 /* SecondCatalog.xcstrings */; };
+		C1B742912B75FA5D003F84B7 /* ThirdCatalog.xcstrings in Resources */ = {isa = PBXBuildFile; fileRef = C1B742902B75FA5D003F84B7 /* ThirdCatalog.xcstrings */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +23,9 @@
 		C1B742812B75F805003F84B7 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		C1B742842B75F805003F84B7 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		C1B742862B75F805003F84B7 /* XLIFF_Localizer_Testcases.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = XLIFF_Localizer_Testcases.entitlements; sourceTree = "<group>"; };
+		C1B7428C2B75F987003F84B7 /* Localizable.xcstrings */ = {isa = PBXFileReference; lastKnownFileType = text.json.xcstrings; path = Localizable.xcstrings; sourceTree = "<group>"; };
+		C1B7428E2B75FA4B003F84B7 /* SecondCatalog.xcstrings */ = {isa = PBXFileReference; lastKnownFileType = text.json.xcstrings; path = SecondCatalog.xcstrings; sourceTree = "<group>"; };
+		C1B742902B75FA5D003F84B7 /* ThirdCatalog.xcstrings */ = {isa = PBXFileReference; lastKnownFileType = text.json.xcstrings; path = ThirdCatalog.xcstrings; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +60,9 @@
 			children = (
 				C1B7427D2B75F7FC003F84B7 /* XLIFF_Localizer_TestcasesApp.swift */,
 				C1B7427F2B75F7FC003F84B7 /* ContentView.swift */,
+				C1B7428C2B75F987003F84B7 /* Localizable.xcstrings */,
+				C1B7428E2B75FA4B003F84B7 /* SecondCatalog.xcstrings */,
+				C1B742902B75FA5D003F84B7 /* ThirdCatalog.xcstrings */,
 				C1B742812B75F805003F84B7 /* Assets.xcassets */,
 				C1B742862B75F805003F84B7 /* XLIFF_Localizer_Testcases.entitlements */,
 				C1B742832B75F805003F84B7 /* Preview Content */,
@@ -111,6 +120,8 @@
 			knownRegions = (
 				en,
 				Base,
+				de,
+				uk,
 			);
 			mainGroup = C1B742712B75F7FC003F84B7;
 			productRefGroup = C1B7427B2B75F7FC003F84B7 /* Products */;
@@ -128,7 +139,10 @@
 			buildActionMask = 2147483647;
 			files = (
 				C1B742852B75F805003F84B7 /* Preview Assets.xcassets in Resources */,
+				C1B742912B75FA5D003F84B7 /* ThirdCatalog.xcstrings in Resources */,
+				C1B7428F2B75FA4B003F84B7 /* SecondCatalog.xcstrings in Resources */,
 				C1B742822B75F805003F84B7 /* Assets.xcassets in Resources */,
+				C1B7428D2B75F987003F84B7 /* Localizable.xcstrings in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -287,8 +301,11 @@
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = "com.prosultsstudio.XLIFF-Localizer-Testcases";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
 		};
@@ -314,8 +331,11 @@
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = "com.prosultsstudio.XLIFF-Localizer-Testcases";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Release;
 		};
