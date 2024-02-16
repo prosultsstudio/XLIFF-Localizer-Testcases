@@ -4,13 +4,13 @@
     "A localizeable string in the second string catalog" : {
       "comment" : "translate with care"
     },
-    "lsr_key" : {
+    "lsr_formatted_interpolation_key" : {
       "extractionState" : "extracted_with_value",
       "localizations" : {
         "en" : {
           "stringUnit" : {
             "state" : "new",
-            "value" : "default value of key"
+            "value" : "You can expect %@ of your localizable strings to be correctly translated via the XLIFF String Catalog Localizer app for macOS!"
           }
         }
       }
@@ -22,6 +22,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Manually managed string"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "needs_review",
+            "value" : ""
           }
         }
       }

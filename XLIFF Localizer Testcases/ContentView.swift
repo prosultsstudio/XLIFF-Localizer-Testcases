@@ -14,28 +14,31 @@ struct ContentView: View {
     let deviceType = "iPhone"
     let fractionCorrect = 0.9999
     var body: some View {
-
-        VStack {
-            logo
-            helloDevelopers
-            defaultValueInStringCatalogExample
-            interpolationWithOnePluralization
-
-            Divider()
-            
-            localizeableStringWithComment
-            stringVaryByDevice
-            twoPluralizationsWithVariables
-
-            Divider()
-            
-            multiLineExample
-            manuallyManagedKey
-            interpolationWithFormattedNumber
-            
-            Spacer()
+        ZStack {
+            Color.clear
+                .ignoresSafeArea()
+            VStack {
+                logo
+                helloDevelopers
+                defaultValueInStringCatalogExample
+                interpolationWithOnePluralization
+                
+                Divider()
+                
+                localizeableStringWithComment
+                stringVaryByDevice
+                twoPluralizationsWithVariables
+                
+                Divider()
+                
+                multiLineExample
+                manuallyManagedKey
+                interpolationWithFormattedNumber
+                
+                Spacer()
+            }
+            .padding()
         }
-        .padding()
     }
     
     private var logo: some View {
@@ -56,6 +59,7 @@ struct ContentView: View {
     // default value manually changed in based language (English U.S. for this app) of string catalog
     private var defaultValueInStringCatalogExample: some View {
         Text("second_key")
+            .font(.body)
             .padding(.bottom)
     }
     
