@@ -4,7 +4,41 @@
     "A localizeable string in the second string catalog" : {
       "comment" : "translate with care"
     },
-    "multiple_interpolations_key" : {
+    "lsr_key" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "default value of key"
+          }
+        }
+      }
+    },
+    "manual_key_2nd" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Manually managed string"
+          }
+        }
+      }
+    },
+    "multi_line_key" : {
+      "comment" : "multiline text for iOS app",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Multiline text for third string catalog.\nSecond line starts here on this %@.\nAnd this is the third line."
+          }
+        }
+      }
+    },
+    "multiple_interpolations_key_with_variables" : {
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -13,26 +47,6 @@
           },
           "substitutions" : {
             "catalogs" : {
-              "argNum" : 1,
-              "formatSpecifier" : "lld",
-              "variations" : {
-                "plural" : {
-                  "one" : {
-                    "stringUnit" : {
-                      "state" : "translated",
-                      "value" : "one String Catalog!"
-                    }
-                  },
-                  "other" : {
-                    "stringUnit" : {
-                      "state" : "translated",
-                      "value" : "%arg separate String Catalogs!"
-                    }
-                  }
-                }
-              }
-            },
-            "strings" : {
               "argNum" : 2,
               "formatSpecifier" : "lld",
               "variations" : {
@@ -40,85 +54,33 @@
                   "one" : {
                     "stringUnit" : {
                       "state" : "translated",
-                      "value" : "one localizable string"
+                      "value" : "%arg string catalog!"
+                    }
+                  },
+                  "other" : {
+                    "stringUnit" : {
+                      "state" : "translated",
+                      "value" : "%arg string catalogs!"
+                    }
+                  }
+                }
+              }
+            },
+            "strings" : {
+              "argNum" : 1,
+              "formatSpecifier" : "lld",
+              "variations" : {
+                "plural" : {
+                  "one" : {
+                    "stringUnit" : {
+                      "state" : "translated",
+                      "value" : "%arg localizable string"
                     }
                   },
                   "other" : {
                     "stringUnit" : {
                       "state" : "translated",
                       "value" : "%arg localizable strings"
-                    }
-                  }
-                }
-              }
-            }
-          }
-        },
-        "uk" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : ""
-          },
-          "substitutions" : {
-            "catalogs" : {
-              "argNum" : 1,
-              "formatSpecifier" : "lld",
-              "variations" : {
-                "plural" : {
-                  "few" : {
-                    "stringUnit" : {
-                      "state" : "new",
-                      "value" : ""
-                    }
-                  },
-                  "many" : {
-                    "stringUnit" : {
-                      "state" : "new",
-                      "value" : ""
-                    }
-                  },
-                  "one" : {
-                    "stringUnit" : {
-                      "state" : "new",
-                      "value" : ""
-                    }
-                  },
-                  "other" : {
-                    "stringUnit" : {
-                      "state" : "new",
-                      "value" : ""
-                    }
-                  }
-                }
-              }
-            },
-            "strings" : {
-              "argNum" : 2,
-              "formatSpecifier" : "lld",
-              "variations" : {
-                "plural" : {
-                  "few" : {
-                    "stringUnit" : {
-                      "state" : "new",
-                      "value" : ""
-                    }
-                  },
-                  "many" : {
-                    "stringUnit" : {
-                      "state" : "new",
-                      "value" : ""
-                    }
-                  },
-                  "one" : {
-                    "stringUnit" : {
-                      "state" : "new",
-                      "value" : ""
-                    }
-                  },
-                  "other" : {
-                    "stringUnit" : {
-                      "state" : "new",
-                      "value" : ""
                     }
                   }
                 }
