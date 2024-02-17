@@ -1,0 +1,109 @@
+Project/Catalog	Key	Base language	Default string	Local language	Localized string	Comment
+XLIFF Localizer Testcases/Localizable	Hello, developers!	English (U.S.) (en)	Hello, developers!	German (de)	Hallo Entwickler!	
+XLIFF Localizer Testcases/Localizable	Hello, developers!	English (U.S.) (en)	Hello, developers!	Dutch (Netherlands) (nl-NL)	Hallo, ontwikkelaars!	
+XLIFF Localizer Testcases/Localizable	Hello, developers!	English (U.S.) (en)	Hello, developers!	Swedish (sv)	Hej utvecklare!	
+XLIFF Localizer Testcases/Localizable	Hello, developers!	English (U.S.) (en)	Hello, developers!	Ukrainian (uk)	Привіт, розробники!	
+XLIFF Localizer Testcases/Localizable	Hello, developers!	English (U.S.) (en)	Hello, developers!	Chinese (Simplified) (zh-Hans)	开发者们大家好！	
+XLIFF Localizer Testcases/Localizable	interpolation_key|==|plural.few	English (U.S.) (en)	There are %lld strings in the default catalog.	Ukrainian (uk)	У типовому каталозі %lld рядків.	mind the pluralization
+XLIFF Localizer Testcases/Localizable	interpolation_key|==|plural.many	English (U.S.) (en)	There are %lld strings in the default catalog.	Ukrainian (uk)	У типовому каталозі %lld рядків.	mind the pluralization
+XLIFF Localizer Testcases/Localizable	interpolation_key|==|plural.one	English (U.S.) (en)	There is %lld string in the default catalog.	German (de)	Der Standardkatalog enthält die Zeichenfolge %lld.	mind the pluralization
+XLIFF Localizer Testcases/Localizable	interpolation_key|==|plural.one	English (U.S.) (en)	There is %lld string in the default catalog.	Dutch (Netherlands) (nl-NL)	Er is %lld string in de standaardcatalogus.	mind the pluralization
+XLIFF Localizer Testcases/Localizable	interpolation_key|==|plural.one	English (U.S.) (en)	There is %lld string in the default catalog.	Swedish (sv)	Det finns %lld-sträng i standardkatalogen.	mind the pluralization
+XLIFF Localizer Testcases/Localizable	interpolation_key|==|plural.one	English (U.S.) (en)	There is %lld string in the default catalog.	Ukrainian (uk)	У каталозі за замовчуванням є рядок %lld.	mind the pluralization
+XLIFF Localizer Testcases/Localizable	interpolation_key|==|plural.other	English (U.S.) (en)	There are %lld strings in the default catalog.	German (de)	Der Standardkatalog enthält %lld Zeichenfolgen.	mind the pluralization
+XLIFF Localizer Testcases/Localizable	interpolation_key|==|plural.other	English (U.S.) (en)	There are %lld strings in the default catalog.	Dutch (Netherlands) (nl-NL)	Er zijn %lld tekenreeksen in de standaardcatalogus.	mind the pluralization
+XLIFF Localizer Testcases/Localizable	interpolation_key|==|plural.other	English (U.S.) (en)	There are %lld strings in the default catalog.	Swedish (sv)	Det finns %lld-strängar i standardkatalogen.	mind the pluralization
+XLIFF Localizer Testcases/Localizable	interpolation_key|==|plural.other	English (U.S.) (en)	There are %lld strings in the default catalog.	Ukrainian (uk)	У типовому каталозі %lld рядків.	mind the pluralization
+XLIFF Localizer Testcases/Localizable	interpolation_key|==|plural.other	English (U.S.) (en)	There are %lld strings in the default catalog.	Chinese (Simplified) (zh-Hans)	默认目录中有 %lld 个字符串。	mind the pluralization
+XLIFF Localizer Testcases/Localizable	second_key	English (U.S.) (en)	Default string in base language for second key in default string catalog (Localizable)	German (de)	Standardzeichenfolge in der Basissprache für zweiten Schlüssel im Standardzeichenfolgenkatalog (lokalisierbar)	
+XLIFF Localizer Testcases/Localizable	second_key	English (U.S.) (en)	Default string in base language for second key in default string catalog (Localizable)	Dutch (Netherlands) (nl-NL)	Standaardreeks in basistaal voor tweede sleutel in standaardreekscatalogus (lokaliseerbaar)	
+XLIFF Localizer Testcases/Localizable	second_key	English (U.S.) (en)	Default string in base language for second key in default string catalog (Localizable)	Swedish (sv)	Standardsträng i basspråk för andra nyckel i standardsträngkatalog (lokaliserbar)	
+XLIFF Localizer Testcases/Localizable	second_key	English (U.S.) (en)	Default string in base language for second key in default string catalog (Localizable)	Ukrainian (uk)	Рядок за замовчуванням у базовій мові для другого ключа в каталозі рядків за замовчуванням (з можливістю локалізації)	
+XLIFF Localizer Testcases/Localizable	second_key	English (U.S.) (en)	Default string in base language for second key in default string catalog (Localizable)	Chinese (Simplified) (zh-Hans)	默认字符串目录中第二个键的默认基本语言字符串（可本地化）	
+XLIFF Localizer Testcases/SecondCatalog	A localizeable string in the second string catalog	English (U.S.) (en)	A localizeable string in the second string catalog	German (de)	Eine lokalisierbare Zeichenfolge im zweiten Zeichenfolgenkatalog	translate with care
+XLIFF Localizer Testcases/SecondCatalog	A localizeable string in the second string catalog	English (U.S.) (en)	A localizeable string in the second string catalog	Dutch (Netherlands) (nl-NL)	Een lokaliseerbare tekenreeks in de tweede tekenreekscatalogus	translate with care
+XLIFF Localizer Testcases/SecondCatalog	A localizeable string in the second string catalog	English (U.S.) (en)	A localizeable string in the second string catalog	Swedish (sv)	En lokaliserbar sträng i den andra strängkatalogen	translate with care
+XLIFF Localizer Testcases/SecondCatalog	A localizeable string in the second string catalog	English (U.S.) (en)	A localizeable string in the second string catalog	Ukrainian (uk)	Локалізований рядок у другому каталозі рядків	translate with care
+XLIFF Localizer Testcases/SecondCatalog	A localizeable string in the second string catalog	English (U.S.) (en)	A localizeable string in the second string catalog	Chinese (Simplified) (zh-Hans)	第二个字符串目录中的可本地化字符串	translate with care
+XLIFF Localizer Testcases/SecondCatalog	lsr_formatted_interpolation_key	English (U.S.) (en)	You can expect %@ of your localizable strings to be correctly translated via the XLIFF String Catalog Localizer app for macOS!	German (de)	Sie können davon ausgehen, dass %@ Ihrer lokalisierbaren Strings über die XLIFF String Catalog Localizer-App für macOS korrekt übersetzt werden!	
+XLIFF Localizer Testcases/SecondCatalog	lsr_formatted_interpolation_key	English (U.S.) (en)	You can expect %@ of your localizable strings to be correctly translated via the XLIFF String Catalog Localizer app for macOS!	Dutch (Netherlands) (nl-NL)	U kunt verwachten dat %@ van uw lokaliseerbare tekenreeksen correct wordt vertaald via de XLIFF String Catalog Localizer-app voor macOS!	
+XLIFF Localizer Testcases/SecondCatalog	lsr_formatted_interpolation_key	English (U.S.) (en)	You can expect %@ of your localizable strings to be correctly translated via the XLIFF String Catalog Localizer app for macOS!	Swedish (sv)	Du kan förvänta dig att %@ av dina lokaliserbara strängar är korrekt översatta via XLIFF String Catalog Localizer-appen för macOS!	
+XLIFF Localizer Testcases/SecondCatalog	lsr_formatted_interpolation_key	English (U.S.) (en)	You can expect %@ of your localizable strings to be correctly translated via the XLIFF String Catalog Localizer app for macOS!	Ukrainian (uk)	Ви можете очікувати, що %@ ваших локалізованих рядків буде правильно перекладено за допомогою програми XLIFF String Catalog Localizer для macOS!	
+XLIFF Localizer Testcases/SecondCatalog	lsr_formatted_interpolation_key	English (U.S.) (en)	You can expect %@ of your localizable strings to be correctly translated via the XLIFF String Catalog Localizer app for macOS!	Chinese (Simplified) (zh-Hans)	您可以预期 %@ 的可本地化字符串可以通过适用于 macOS 的 XLIFF String Catalog Localizer 应用程序正确翻译！	
+XLIFF Localizer Testcases/SecondCatalog	manual_key_2nd	English (U.S.) (en)	Manually managed string	German (de)	Manuell verwaltete Zeichenfolge	
+XLIFF Localizer Testcases/SecondCatalog	manual_key_2nd	English (U.S.) (en)	Manually managed string	Dutch (Netherlands) (nl-NL)	Handmatig beheerde tekenreeks	
+XLIFF Localizer Testcases/SecondCatalog	manual_key_2nd	English (U.S.) (en)	Manually managed string	Swedish (sv)	Manuellt hanterad sträng	
+XLIFF Localizer Testcases/SecondCatalog	manual_key_2nd	English (U.S.) (en)	Manually managed string	Ukrainian (uk)	Рядок, керований вручну	
+XLIFF Localizer Testcases/SecondCatalog	manual_key_2nd	English (U.S.) (en)	Manually managed string	Chinese (Simplified) (zh-Hans)	手动管理字符串	
+XLIFF Localizer Testcases/SecondCatalog	multi_line_key	English (U.S.) (en)	"Multiline text for third string catalog.
+Second line starts here on this %@.
+And this is the third line."	German (de)	"Mehrzeiliger Text für den dritten String-Katalog.
+Die zweite Zeile beginnt hier an diesem %@.
+Und das ist die dritte Zeile."	multiline text for iOS app
+XLIFF Localizer Testcases/SecondCatalog	multi_line_key	English (U.S.) (en)	"Multiline text for third string catalog.
+Second line starts here on this %@.
+And this is the third line."	Dutch (Netherlands) (nl-NL)	"Meerregelige tekst voor derde stringcatalogus.
+De tweede regel begint hier op deze %@.
+En dit is de derde regel."	multiline text for iOS app
+XLIFF Localizer Testcases/SecondCatalog	multi_line_key	English (U.S.) (en)	"Multiline text for third string catalog.
+Second line starts here on this %@.
+And this is the third line."	Swedish (sv)	"Flerradstext för tredje strängkatalog.
+Andra raden börjar här på denna %@.
+Och det här är den tredje raden."	multiline text for iOS app
+XLIFF Localizer Testcases/SecondCatalog	multi_line_key	English (U.S.) (en)	"Multiline text for third string catalog.
+Second line starts here on this %@.
+And this is the third line."	Ukrainian (uk)	"Багаторядковий текст для каталогу третього рядка.
+Другий рядок починається тут, на цьому %@.
+І це третя лінія."	multiline text for iOS app
+XLIFF Localizer Testcases/SecondCatalog	multi_line_key	English (U.S.) (en)	"Multiline text for third string catalog.
+Second line starts here on this %@.
+And this is the third line."	Chinese (Simplified) (zh-Hans)	"第三字符串目录的多行文本。
+第二行从这个%@开始。
+这是第三行。"	multiline text for iOS app
+XLIFF Localizer Testcases/SecondCatalog	multiple_interpolations_key_with_variables	English (U.S.) (en)	This test app has %1$#@strings@ in %2$#@catalogs@	German (de)	Diese Test-App hat %1$#@strings@ in %2$#@catalogs@	
+XLIFF Localizer Testcases/SecondCatalog	multiple_interpolations_key_with_variables	English (U.S.) (en)	This test app has %1$#@strings@ in %2$#@catalogs@	Dutch (Netherlands) (nl-NL)	Deze test-app heeft %1$#@strings@ in %2$#@catalogs@	
+XLIFF Localizer Testcases/SecondCatalog	multiple_interpolations_key_with_variables	English (U.S.) (en)	This test app has %1$#@strings@ in %2$#@catalogs@	Swedish (sv)	Den här testappen har %1$#@strings@ i %2$#@catalogs@	
+XLIFF Localizer Testcases/SecondCatalog	multiple_interpolations_key_with_variables	English (U.S.) (en)	This test app has %1$#@strings@ in %2$#@catalogs@	Ukrainian (uk)	Цей тестовий додаток має %1$#@strings@ у %2$#@catalogs@	
+XLIFF Localizer Testcases/SecondCatalog	multiple_interpolations_key_with_variables	English (U.S.) (en)	This test app has %1$#@strings@ in %2$#@catalogs@	Chinese (Simplified) (zh-Hans)	此测试应用程序在 %2$#@catalogs@ 中有 %1$#@strings@	
+XLIFF Localizer Testcases/SecondCatalog	multiple_interpolations_key_with_variables|==|substitutions.catalogs.plural.few	English (U.S.) (en)	%2$lld string catalogs!	Ukrainian (uk)	%2$lld каталогів рядків!	
+XLIFF Localizer Testcases/SecondCatalog	multiple_interpolations_key_with_variables|==|substitutions.catalogs.plural.many	English (U.S.) (en)	%2$lld string catalogs!	Ukrainian (uk)	%2$lld каталогів рядків!	
+XLIFF Localizer Testcases/SecondCatalog	multiple_interpolations_key_with_variables|==|substitutions.catalogs.plural.one	English (U.S.) (en)	%2$lld string catalog!	German (de)	%2$lld String-Katalog!	
+XLIFF Localizer Testcases/SecondCatalog	multiple_interpolations_key_with_variables|==|substitutions.catalogs.plural.one	English (U.S.) (en)	%2$lld string catalog!	Dutch (Netherlands) (nl-NL)	%2$lld tekenreekscatalogus!	
+XLIFF Localizer Testcases/SecondCatalog	multiple_interpolations_key_with_variables|==|substitutions.catalogs.plural.one	English (U.S.) (en)	%2$lld string catalog!	Swedish (sv)	%2$lld strängkatalog!	
+XLIFF Localizer Testcases/SecondCatalog	multiple_interpolations_key_with_variables|==|substitutions.catalogs.plural.one	English (U.S.) (en)	%2$lld string catalog!	Ukrainian (uk)	%2$lld каталог рядків!	
+XLIFF Localizer Testcases/SecondCatalog	multiple_interpolations_key_with_variables|==|substitutions.catalogs.plural.other	English (U.S.) (en)	%2$lld string catalogs!	German (de)	%2$lld String-Kataloge!	
+XLIFF Localizer Testcases/SecondCatalog	multiple_interpolations_key_with_variables|==|substitutions.catalogs.plural.other	English (U.S.) (en)	%2$lld string catalogs!	Dutch (Netherlands) (nl-NL)	%2$lld stringcatalogi!	
+XLIFF Localizer Testcases/SecondCatalog	multiple_interpolations_key_with_variables|==|substitutions.catalogs.plural.other	English (U.S.) (en)	%2$lld string catalogs!	Swedish (sv)	%2$lld strängkataloger!	
+XLIFF Localizer Testcases/SecondCatalog	multiple_interpolations_key_with_variables|==|substitutions.catalogs.plural.other	English (U.S.) (en)	%2$lld string catalogs!	Ukrainian (uk)	%2$lld каталогів рядків!	
+XLIFF Localizer Testcases/SecondCatalog	multiple_interpolations_key_with_variables|==|substitutions.catalogs.plural.other	English (U.S.) (en)	%2$lld string catalogs!	Chinese (Simplified) (zh-Hans)	%2$lld 字符串目录！	
+XLIFF Localizer Testcases/SecondCatalog	multiple_interpolations_key_with_variables|==|substitutions.strings.plural.few	English (U.S.) (en)	%1$lld localizable strings	Ukrainian (uk)	%1$lld локалізованих рядків	
+XLIFF Localizer Testcases/SecondCatalog	multiple_interpolations_key_with_variables|==|substitutions.strings.plural.many	English (U.S.) (en)	%1$lld localizable strings	Ukrainian (uk)	%1$lld локалізованих рядків	
+XLIFF Localizer Testcases/SecondCatalog	multiple_interpolations_key_with_variables|==|substitutions.strings.plural.one	English (U.S.) (en)	%1$lld localizable string	German (de)	%1$lld lokalisierbare Zeichenfolge	
+XLIFF Localizer Testcases/SecondCatalog	multiple_interpolations_key_with_variables|==|substitutions.strings.plural.one	English (U.S.) (en)	%1$lld localizable string	Dutch (Netherlands) (nl-NL)	%1$lld lokaliseerbare tekenreeks	
+XLIFF Localizer Testcases/SecondCatalog	multiple_interpolations_key_with_variables|==|substitutions.strings.plural.one	English (U.S.) (en)	%1$lld localizable string	Swedish (sv)	%1$lld lokaliserbar sträng	
+XLIFF Localizer Testcases/SecondCatalog	multiple_interpolations_key_with_variables|==|substitutions.strings.plural.one	English (U.S.) (en)	%1$lld localizable string	Ukrainian (uk)	%1$lld локалізований рядок	
+XLIFF Localizer Testcases/SecondCatalog	multiple_interpolations_key_with_variables|==|substitutions.strings.plural.other	English (U.S.) (en)	%1$lld localizable strings	German (de)	%1$lld lokalisierbare Zeichenfolgen	
+XLIFF Localizer Testcases/SecondCatalog	multiple_interpolations_key_with_variables|==|substitutions.strings.plural.other	English (U.S.) (en)	%1$lld localizable strings	Dutch (Netherlands) (nl-NL)	%1$lld lokaliseerbare tekenreeksen	
+XLIFF Localizer Testcases/SecondCatalog	multiple_interpolations_key_with_variables|==|substitutions.strings.plural.other	English (U.S.) (en)	%1$lld localizable strings	Swedish (sv)	%1$lld lokaliserbara strängar	
+XLIFF Localizer Testcases/SecondCatalog	multiple_interpolations_key_with_variables|==|substitutions.strings.plural.other	English (U.S.) (en)	%1$lld localizable strings	Ukrainian (uk)	%1$lld локалізованих рядків	
+XLIFF Localizer Testcases/SecondCatalog	multiple_interpolations_key_with_variables|==|substitutions.strings.plural.other	English (U.S.) (en)	%1$lld localizable strings	Chinese (Simplified) (zh-Hans)	%1$lld 个可本地化字符串	
+XLIFF Localizer Testcases/SecondCatalog	string_variant_per_device|==|device.ipad	English (U.S.) (en)	This is the iPad variant	German (de)	Dies ist die iPad-Variante	
+XLIFF Localizer Testcases/SecondCatalog	string_variant_per_device|==|device.ipad	English (U.S.) (en)	This is the iPad variant	Dutch (Netherlands) (nl-NL)	Dit is de iPad-variant	
+XLIFF Localizer Testcases/SecondCatalog	string_variant_per_device|==|device.ipad	English (U.S.) (en)	This is the iPad variant	Swedish (sv)	Detta är iPad-varianten	
+XLIFF Localizer Testcases/SecondCatalog	string_variant_per_device|==|device.ipad	English (U.S.) (en)	This is the iPad variant	Ukrainian (uk)	Це варіант iPad	
+XLIFF Localizer Testcases/SecondCatalog	string_variant_per_device|==|device.ipad	English (U.S.) (en)	This is the iPad variant	Chinese (Simplified) (zh-Hans)	这是 iPad 版本	
+XLIFF Localizer Testcases/SecondCatalog	string_variant_per_device|==|device.iphone	English (U.S.) (en)	This is the iPhone variant.	German (de)	Dies ist die iPhone-Variante.	
+XLIFF Localizer Testcases/SecondCatalog	string_variant_per_device|==|device.iphone	English (U.S.) (en)	This is the iPhone variant.	Dutch (Netherlands) (nl-NL)	Dit is de iPhone-variant.	
+XLIFF Localizer Testcases/SecondCatalog	string_variant_per_device|==|device.iphone	English (U.S.) (en)	This is the iPhone variant.	Swedish (sv)	Detta är iPhone-varianten.	
+XLIFF Localizer Testcases/SecondCatalog	string_variant_per_device|==|device.iphone	English (U.S.) (en)	This is the iPhone variant.	Ukrainian (uk)	Це варіант iPhone.	
+XLIFF Localizer Testcases/SecondCatalog	string_variant_per_device|==|device.iphone	English (U.S.) (en)	This is the iPhone variant.	Chinese (Simplified) (zh-Hans)	这是 iPhone 版本。	
+XLIFF Localizer Testcases/SecondCatalog	string_variant_per_device|==|device.other	English (U.S.) (en)	This is the string variant for a device other than iPhone or iPad	German (de)	Dies ist die String-Variante für ein anderes Gerät als iPhone oder iPad	
+XLIFF Localizer Testcases/SecondCatalog	string_variant_per_device|==|device.other	English (U.S.) (en)	This is the string variant for a device other than iPhone or iPad	Dutch (Netherlands) (nl-NL)	Dit is de stringvariant voor een ander apparaat dan iPhone of iPad	
+XLIFF Localizer Testcases/SecondCatalog	string_variant_per_device|==|device.other	English (U.S.) (en)	This is the string variant for a device other than iPhone or iPad	Swedish (sv)	Detta är strängvarianten för en annan enhet än iPhone eller iPad	
+XLIFF Localizer Testcases/SecondCatalog	string_variant_per_device|==|device.other	English (U.S.) (en)	This is the string variant for a device other than iPhone or iPad	Ukrainian (uk)	Це варіант рядка для пристроїв, відмінних від iPhone або iPad	
+XLIFF Localizer Testcases/SecondCatalog	string_variant_per_device|==|device.other	English (U.S.) (en)	This is the string variant for a device other than iPhone or iPad	Chinese (Simplified) (zh-Hans)	这是 iPhone 或 iPad 以外的设备的字符串变体	
+XLIFF Localizer Testcases/XLIFF Localizer Testcases-InfoPlist	CFBundleName	English (U.S.) (en)	XLIFF Localizer Testcases	German (de)	XLIFF-Localizer-Testfälle	Bundle name
+XLIFF Localizer Testcases/XLIFF Localizer Testcases-InfoPlist	CFBundleName	English (U.S.) (en)	XLIFF Localizer Testcases	Dutch (Netherlands) (nl-NL)	XLIFF Localizer-testcases	Bundle name
+XLIFF Localizer Testcases/XLIFF Localizer Testcases-InfoPlist	CFBundleName	English (U.S.) (en)	XLIFF Localizer Testcases	Swedish (sv)	XLIFF Localizer-testfall	Bundle name
+XLIFF Localizer Testcases/XLIFF Localizer Testcases-InfoPlist	CFBundleName	English (U.S.) (en)	XLIFF Localizer Testcases	Ukrainian (uk)	Тестові приклади локалізатора XLIFF	Bundle name
+XLIFF Localizer Testcases/XLIFF Localizer Testcases-InfoPlist	CFBundleName	English (U.S.) (en)	XLIFF Localizer Testcases	Chinese (Simplified) (zh-Hans)	XLIFF 定位器测试用例	Bundle name

@@ -1,0 +1,794 @@
+[
+  {
+    "baseLanguage" : "en",
+    "comment" : "",
+    "defaultString" : "Hello, developers!",
+    "key" : "Hello, developers!",
+    "localizedString" : "Hallo Entwickler!",
+    "localLanguage" : "de",
+    "projectCatalog" : "XLIFF Localizer Testcases\/Localizable"
+  },
+  {
+    "baseLanguage" : "en",
+    "comment" : "",
+    "defaultString" : "Hello, developers!",
+    "key" : "Hello, developers!",
+    "localizedString" : "Hallo, ontwikkelaars!",
+    "localLanguage" : "nl-NL",
+    "projectCatalog" : "XLIFF Localizer Testcases\/Localizable"
+  },
+  {
+    "baseLanguage" : "en",
+    "comment" : "",
+    "defaultString" : "Hello, developers!",
+    "key" : "Hello, developers!",
+    "localizedString" : "Hej utvecklare!",
+    "localLanguage" : "sv",
+    "projectCatalog" : "XLIFF Localizer Testcases\/Localizable"
+  },
+  {
+    "baseLanguage" : "en",
+    "comment" : "",
+    "defaultString" : "Hello, developers!",
+    "key" : "Hello, developers!",
+    "localizedString" : "Привіт, розробники!",
+    "localLanguage" : "uk",
+    "projectCatalog" : "XLIFF Localizer Testcases\/Localizable"
+  },
+  {
+    "baseLanguage" : "en",
+    "comment" : "",
+    "defaultString" : "Hello, developers!",
+    "key" : "Hello, developers!",
+    "localizedString" : "开发者们大家好！",
+    "localLanguage" : "zh-Hans",
+    "projectCatalog" : "XLIFF Localizer Testcases\/Localizable"
+  },
+  {
+    "baseLanguage" : "en",
+    "comment" : "mind the pluralization",
+    "defaultString" : "There are %lld strings in the default catalog.",
+    "key" : "interpolation_key|==|plural.few",
+    "localizedString" : "У типовому каталозі %lld рядків.",
+    "localLanguage" : "uk",
+    "projectCatalog" : "XLIFF Localizer Testcases\/Localizable"
+  },
+  {
+    "baseLanguage" : "en",
+    "comment" : "mind the pluralization",
+    "defaultString" : "There are %lld strings in the default catalog.",
+    "key" : "interpolation_key|==|plural.many",
+    "localizedString" : "У типовому каталозі %lld рядків.",
+    "localLanguage" : "uk",
+    "projectCatalog" : "XLIFF Localizer Testcases\/Localizable"
+  },
+  {
+    "baseLanguage" : "en",
+    "comment" : "mind the pluralization",
+    "defaultString" : "There is %lld string in the default catalog.",
+    "key" : "interpolation_key|==|plural.one",
+    "localizedString" : "Der Standardkatalog enthält die Zeichenfolge %lld.",
+    "localLanguage" : "de",
+    "projectCatalog" : "XLIFF Localizer Testcases\/Localizable"
+  },
+  {
+    "baseLanguage" : "en",
+    "comment" : "mind the pluralization",
+    "defaultString" : "There is %lld string in the default catalog.",
+    "key" : "interpolation_key|==|plural.one",
+    "localizedString" : "Er is %lld string in de standaardcatalogus.",
+    "localLanguage" : "nl-NL",
+    "projectCatalog" : "XLIFF Localizer Testcases\/Localizable"
+  },
+  {
+    "baseLanguage" : "en",
+    "comment" : "mind the pluralization",
+    "defaultString" : "There is %lld string in the default catalog.",
+    "key" : "interpolation_key|==|plural.one",
+    "localizedString" : "Det finns %lld-sträng i standardkatalogen.",
+    "localLanguage" : "sv",
+    "projectCatalog" : "XLIFF Localizer Testcases\/Localizable"
+  },
+  {
+    "baseLanguage" : "en",
+    "comment" : "mind the pluralization",
+    "defaultString" : "There is %lld string in the default catalog.",
+    "key" : "interpolation_key|==|plural.one",
+    "localizedString" : "У каталозі за замовчуванням є рядок %lld.",
+    "localLanguage" : "uk",
+    "projectCatalog" : "XLIFF Localizer Testcases\/Localizable"
+  },
+  {
+    "baseLanguage" : "en",
+    "comment" : "mind the pluralization",
+    "defaultString" : "There are %lld strings in the default catalog.",
+    "key" : "interpolation_key|==|plural.other",
+    "localizedString" : "Der Standardkatalog enthält %lld Zeichenfolgen.",
+    "localLanguage" : "de",
+    "projectCatalog" : "XLIFF Localizer Testcases\/Localizable"
+  },
+  {
+    "baseLanguage" : "en",
+    "comment" : "mind the pluralization",
+    "defaultString" : "There are %lld strings in the default catalog.",
+    "key" : "interpolation_key|==|plural.other",
+    "localizedString" : "Er zijn %lld tekenreeksen in de standaardcatalogus.",
+    "localLanguage" : "nl-NL",
+    "projectCatalog" : "XLIFF Localizer Testcases\/Localizable"
+  },
+  {
+    "baseLanguage" : "en",
+    "comment" : "mind the pluralization",
+    "defaultString" : "There are %lld strings in the default catalog.",
+    "key" : "interpolation_key|==|plural.other",
+    "localizedString" : "Det finns %lld-strängar i standardkatalogen.",
+    "localLanguage" : "sv",
+    "projectCatalog" : "XLIFF Localizer Testcases\/Localizable"
+  },
+  {
+    "baseLanguage" : "en",
+    "comment" : "mind the pluralization",
+    "defaultString" : "There are %lld strings in the default catalog.",
+    "key" : "interpolation_key|==|plural.other",
+    "localizedString" : "У типовому каталозі %lld рядків.",
+    "localLanguage" : "uk",
+    "projectCatalog" : "XLIFF Localizer Testcases\/Localizable"
+  },
+  {
+    "baseLanguage" : "en",
+    "comment" : "mind the pluralization",
+    "defaultString" : "There are %lld strings in the default catalog.",
+    "key" : "interpolation_key|==|plural.other",
+    "localizedString" : "默认目录中有 %lld 个字符串。",
+    "localLanguage" : "zh-Hans",
+    "projectCatalog" : "XLIFF Localizer Testcases\/Localizable"
+  },
+  {
+    "baseLanguage" : "en",
+    "comment" : "",
+    "defaultString" : "Default string in base language for second key in default string catalog (Localizable)",
+    "key" : "second_key",
+    "localizedString" : "Standardzeichenfolge in der Basissprache für zweiten Schlüssel im Standardzeichenfolgenkatalog (lokalisierbar)",
+    "localLanguage" : "de",
+    "projectCatalog" : "XLIFF Localizer Testcases\/Localizable"
+  },
+  {
+    "baseLanguage" : "en",
+    "comment" : "",
+    "defaultString" : "Default string in base language for second key in default string catalog (Localizable)",
+    "key" : "second_key",
+    "localizedString" : "Standaardreeks in basistaal voor tweede sleutel in standaardreekscatalogus (lokaliseerbaar)",
+    "localLanguage" : "nl-NL",
+    "projectCatalog" : "XLIFF Localizer Testcases\/Localizable"
+  },
+  {
+    "baseLanguage" : "en",
+    "comment" : "",
+    "defaultString" : "Default string in base language for second key in default string catalog (Localizable)",
+    "key" : "second_key",
+    "localizedString" : "Standardsträng i basspråk för andra nyckel i standardsträngkatalog (lokaliserbar)",
+    "localLanguage" : "sv",
+    "projectCatalog" : "XLIFF Localizer Testcases\/Localizable"
+  },
+  {
+    "baseLanguage" : "en",
+    "comment" : "",
+    "defaultString" : "Default string in base language for second key in default string catalog (Localizable)",
+    "key" : "second_key",
+    "localizedString" : "Рядок за замовчуванням у базовій мові для другого ключа в каталозі рядків за замовчуванням (з можливістю локалізації)",
+    "localLanguage" : "uk",
+    "projectCatalog" : "XLIFF Localizer Testcases\/Localizable"
+  },
+  {
+    "baseLanguage" : "en",
+    "comment" : "",
+    "defaultString" : "Default string in base language for second key in default string catalog (Localizable)",
+    "key" : "second_key",
+    "localizedString" : "默认字符串目录中第二个键的默认基本语言字符串（可本地化）",
+    "localLanguage" : "zh-Hans",
+    "projectCatalog" : "XLIFF Localizer Testcases\/Localizable"
+  },
+  {
+    "baseLanguage" : "en",
+    "comment" : "translate with care",
+    "defaultString" : "A localizeable string in the second string catalog",
+    "key" : "A localizeable string in the second string catalog",
+    "localizedString" : "Eine lokalisierbare Zeichenfolge im zweiten Zeichenfolgenkatalog",
+    "localLanguage" : "de",
+    "projectCatalog" : "XLIFF Localizer Testcases\/SecondCatalog"
+  },
+  {
+    "baseLanguage" : "en",
+    "comment" : "translate with care",
+    "defaultString" : "A localizeable string in the second string catalog",
+    "key" : "A localizeable string in the second string catalog",
+    "localizedString" : "Een lokaliseerbare tekenreeks in de tweede tekenreekscatalogus",
+    "localLanguage" : "nl-NL",
+    "projectCatalog" : "XLIFF Localizer Testcases\/SecondCatalog"
+  },
+  {
+    "baseLanguage" : "en",
+    "comment" : "translate with care",
+    "defaultString" : "A localizeable string in the second string catalog",
+    "key" : "A localizeable string in the second string catalog",
+    "localizedString" : "En lokaliserbar sträng i den andra strängkatalogen",
+    "localLanguage" : "sv",
+    "projectCatalog" : "XLIFF Localizer Testcases\/SecondCatalog"
+  },
+  {
+    "baseLanguage" : "en",
+    "comment" : "translate with care",
+    "defaultString" : "A localizeable string in the second string catalog",
+    "key" : "A localizeable string in the second string catalog",
+    "localizedString" : "Локалізований рядок у другому каталозі рядків",
+    "localLanguage" : "uk",
+    "projectCatalog" : "XLIFF Localizer Testcases\/SecondCatalog"
+  },
+  {
+    "baseLanguage" : "en",
+    "comment" : "translate with care",
+    "defaultString" : "A localizeable string in the second string catalog",
+    "key" : "A localizeable string in the second string catalog",
+    "localizedString" : "第二个字符串目录中的可本地化字符串",
+    "localLanguage" : "zh-Hans",
+    "projectCatalog" : "XLIFF Localizer Testcases\/SecondCatalog"
+  },
+  {
+    "baseLanguage" : "en",
+    "comment" : "",
+    "defaultString" : "You can expect %@ of your localizable strings to be correctly translated via the XLIFF String Catalog Localizer app for macOS!",
+    "key" : "lsr_formatted_interpolation_key",
+    "localizedString" : "Sie können davon ausgehen, dass %@ Ihrer lokalisierbaren Strings über die XLIFF String Catalog Localizer-App für macOS korrekt übersetzt werden!",
+    "localLanguage" : "de",
+    "projectCatalog" : "XLIFF Localizer Testcases\/SecondCatalog"
+  },
+  {
+    "baseLanguage" : "en",
+    "comment" : "",
+    "defaultString" : "You can expect %@ of your localizable strings to be correctly translated via the XLIFF String Catalog Localizer app for macOS!",
+    "key" : "lsr_formatted_interpolation_key",
+    "localizedString" : "U kunt verwachten dat %@ van uw lokaliseerbare tekenreeksen correct wordt vertaald via de XLIFF String Catalog Localizer-app voor macOS!",
+    "localLanguage" : "nl-NL",
+    "projectCatalog" : "XLIFF Localizer Testcases\/SecondCatalog"
+  },
+  {
+    "baseLanguage" : "en",
+    "comment" : "",
+    "defaultString" : "You can expect %@ of your localizable strings to be correctly translated via the XLIFF String Catalog Localizer app for macOS!",
+    "key" : "lsr_formatted_interpolation_key",
+    "localizedString" : "Du kan förvänta dig att %@ av dina lokaliserbara strängar är korrekt översatta via XLIFF String Catalog Localizer-appen för macOS!",
+    "localLanguage" : "sv",
+    "projectCatalog" : "XLIFF Localizer Testcases\/SecondCatalog"
+  },
+  {
+    "baseLanguage" : "en",
+    "comment" : "",
+    "defaultString" : "You can expect %@ of your localizable strings to be correctly translated via the XLIFF String Catalog Localizer app for macOS!",
+    "key" : "lsr_formatted_interpolation_key",
+    "localizedString" : "Ви можете очікувати, що %@ ваших локалізованих рядків буде правильно перекладено за допомогою програми XLIFF String Catalog Localizer для macOS!",
+    "localLanguage" : "uk",
+    "projectCatalog" : "XLIFF Localizer Testcases\/SecondCatalog"
+  },
+  {
+    "baseLanguage" : "en",
+    "comment" : "",
+    "defaultString" : "You can expect %@ of your localizable strings to be correctly translated via the XLIFF String Catalog Localizer app for macOS!",
+    "key" : "lsr_formatted_interpolation_key",
+    "localizedString" : "您可以预期 %@ 的可本地化字符串可以通过适用于 macOS 的 XLIFF String Catalog Localizer 应用程序正确翻译！",
+    "localLanguage" : "zh-Hans",
+    "projectCatalog" : "XLIFF Localizer Testcases\/SecondCatalog"
+  },
+  {
+    "baseLanguage" : "en",
+    "comment" : "",
+    "defaultString" : "Manually managed string",
+    "key" : "manual_key_2nd",
+    "localizedString" : "Manuell verwaltete Zeichenfolge",
+    "localLanguage" : "de",
+    "projectCatalog" : "XLIFF Localizer Testcases\/SecondCatalog"
+  },
+  {
+    "baseLanguage" : "en",
+    "comment" : "",
+    "defaultString" : "Manually managed string",
+    "key" : "manual_key_2nd",
+    "localizedString" : "Handmatig beheerde tekenreeks",
+    "localLanguage" : "nl-NL",
+    "projectCatalog" : "XLIFF Localizer Testcases\/SecondCatalog"
+  },
+  {
+    "baseLanguage" : "en",
+    "comment" : "",
+    "defaultString" : "Manually managed string",
+    "key" : "manual_key_2nd",
+    "localizedString" : "Manuellt hanterad sträng",
+    "localLanguage" : "sv",
+    "projectCatalog" : "XLIFF Localizer Testcases\/SecondCatalog"
+  },
+  {
+    "baseLanguage" : "en",
+    "comment" : "",
+    "defaultString" : "Manually managed string",
+    "key" : "manual_key_2nd",
+    "localizedString" : "Рядок, керований вручну",
+    "localLanguage" : "uk",
+    "projectCatalog" : "XLIFF Localizer Testcases\/SecondCatalog"
+  },
+  {
+    "baseLanguage" : "en",
+    "comment" : "",
+    "defaultString" : "Manually managed string",
+    "key" : "manual_key_2nd",
+    "localizedString" : "手动管理字符串",
+    "localLanguage" : "zh-Hans",
+    "projectCatalog" : "XLIFF Localizer Testcases\/SecondCatalog"
+  },
+  {
+    "baseLanguage" : "en",
+    "comment" : "multiline text for iOS app",
+    "defaultString" : "Multiline text for third string catalog.\nSecond line starts here on this %@.\nAnd this is the third line.",
+    "key" : "multi_line_key",
+    "localizedString" : "Mehrzeiliger Text für den dritten String-Katalog.\nDie zweite Zeile beginnt hier an diesem %@.\nUnd das ist die dritte Zeile.",
+    "localLanguage" : "de",
+    "projectCatalog" : "XLIFF Localizer Testcases\/SecondCatalog"
+  },
+  {
+    "baseLanguage" : "en",
+    "comment" : "multiline text for iOS app",
+    "defaultString" : "Multiline text for third string catalog.\nSecond line starts here on this %@.\nAnd this is the third line.",
+    "key" : "multi_line_key",
+    "localizedString" : "Meerregelige tekst voor derde stringcatalogus.\nDe tweede regel begint hier op deze %@.\nEn dit is de derde regel.",
+    "localLanguage" : "nl-NL",
+    "projectCatalog" : "XLIFF Localizer Testcases\/SecondCatalog"
+  },
+  {
+    "baseLanguage" : "en",
+    "comment" : "multiline text for iOS app",
+    "defaultString" : "Multiline text for third string catalog.\nSecond line starts here on this %@.\nAnd this is the third line.",
+    "key" : "multi_line_key",
+    "localizedString" : "Flerradstext för tredje strängkatalog.\nAndra raden börjar här på denna %@.\nOch det här är den tredje raden.",
+    "localLanguage" : "sv",
+    "projectCatalog" : "XLIFF Localizer Testcases\/SecondCatalog"
+  },
+  {
+    "baseLanguage" : "en",
+    "comment" : "multiline text for iOS app",
+    "defaultString" : "Multiline text for third string catalog.\nSecond line starts here on this %@.\nAnd this is the third line.",
+    "key" : "multi_line_key",
+    "localizedString" : "Багаторядковий текст для каталогу третього рядка.\nДругий рядок починається тут, на цьому %@.\nІ це третя лінія.",
+    "localLanguage" : "uk",
+    "projectCatalog" : "XLIFF Localizer Testcases\/SecondCatalog"
+  },
+  {
+    "baseLanguage" : "en",
+    "comment" : "multiline text for iOS app",
+    "defaultString" : "Multiline text for third string catalog.\nSecond line starts here on this %@.\nAnd this is the third line.",
+    "key" : "multi_line_key",
+    "localizedString" : "第三字符串目录的多行文本。\n第二行从这个%@开始。\n这是第三行。",
+    "localLanguage" : "zh-Hans",
+    "projectCatalog" : "XLIFF Localizer Testcases\/SecondCatalog"
+  },
+  {
+    "baseLanguage" : "en",
+    "comment" : "",
+    "defaultString" : "This test app has %1$#@strings@ in %2$#@catalogs@",
+    "key" : "multiple_interpolations_key_with_variables",
+    "localizedString" : "Diese Test-App hat %1$#@strings@ in %2$#@catalogs@",
+    "localLanguage" : "de",
+    "projectCatalog" : "XLIFF Localizer Testcases\/SecondCatalog"
+  },
+  {
+    "baseLanguage" : "en",
+    "comment" : "",
+    "defaultString" : "This test app has %1$#@strings@ in %2$#@catalogs@",
+    "key" : "multiple_interpolations_key_with_variables",
+    "localizedString" : "Deze test-app heeft %1$#@strings@ in %2$#@catalogs@",
+    "localLanguage" : "nl-NL",
+    "projectCatalog" : "XLIFF Localizer Testcases\/SecondCatalog"
+  },
+  {
+    "baseLanguage" : "en",
+    "comment" : "",
+    "defaultString" : "This test app has %1$#@strings@ in %2$#@catalogs@",
+    "key" : "multiple_interpolations_key_with_variables",
+    "localizedString" : "Den här testappen har %1$#@strings@ i %2$#@catalogs@",
+    "localLanguage" : "sv",
+    "projectCatalog" : "XLIFF Localizer Testcases\/SecondCatalog"
+  },
+  {
+    "baseLanguage" : "en",
+    "comment" : "",
+    "defaultString" : "This test app has %1$#@strings@ in %2$#@catalogs@",
+    "key" : "multiple_interpolations_key_with_variables",
+    "localizedString" : "Цей тестовий додаток має %1$#@strings@ у %2$#@catalogs@",
+    "localLanguage" : "uk",
+    "projectCatalog" : "XLIFF Localizer Testcases\/SecondCatalog"
+  },
+  {
+    "baseLanguage" : "en",
+    "comment" : "",
+    "defaultString" : "This test app has %1$#@strings@ in %2$#@catalogs@",
+    "key" : "multiple_interpolations_key_with_variables",
+    "localizedString" : "此测试应用程序在 %2$#@catalogs@ 中有 %1$#@strings@",
+    "localLanguage" : "zh-Hans",
+    "projectCatalog" : "XLIFF Localizer Testcases\/SecondCatalog"
+  },
+  {
+    "baseLanguage" : "en",
+    "comment" : "",
+    "defaultString" : "%2$lld string catalogs!",
+    "key" : "multiple_interpolations_key_with_variables|==|substitutions.catalogs.plural.few",
+    "localizedString" : "%2$lld каталогів рядків!",
+    "localLanguage" : "uk",
+    "projectCatalog" : "XLIFF Localizer Testcases\/SecondCatalog"
+  },
+  {
+    "baseLanguage" : "en",
+    "comment" : "",
+    "defaultString" : "%2$lld string catalogs!",
+    "key" : "multiple_interpolations_key_with_variables|==|substitutions.catalogs.plural.many",
+    "localizedString" : "%2$lld каталогів рядків!",
+    "localLanguage" : "uk",
+    "projectCatalog" : "XLIFF Localizer Testcases\/SecondCatalog"
+  },
+  {
+    "baseLanguage" : "en",
+    "comment" : "",
+    "defaultString" : "%2$lld string catalog!",
+    "key" : "multiple_interpolations_key_with_variables|==|substitutions.catalogs.plural.one",
+    "localizedString" : "%2$lld String-Katalog!",
+    "localLanguage" : "de",
+    "projectCatalog" : "XLIFF Localizer Testcases\/SecondCatalog"
+  },
+  {
+    "baseLanguage" : "en",
+    "comment" : "",
+    "defaultString" : "%2$lld string catalog!",
+    "key" : "multiple_interpolations_key_with_variables|==|substitutions.catalogs.plural.one",
+    "localizedString" : "%2$lld tekenreekscatalogus!",
+    "localLanguage" : "nl-NL",
+    "projectCatalog" : "XLIFF Localizer Testcases\/SecondCatalog"
+  },
+  {
+    "baseLanguage" : "en",
+    "comment" : "",
+    "defaultString" : "%2$lld string catalog!",
+    "key" : "multiple_interpolations_key_with_variables|==|substitutions.catalogs.plural.one",
+    "localizedString" : "%2$lld strängkatalog!",
+    "localLanguage" : "sv",
+    "projectCatalog" : "XLIFF Localizer Testcases\/SecondCatalog"
+  },
+  {
+    "baseLanguage" : "en",
+    "comment" : "",
+    "defaultString" : "%2$lld string catalog!",
+    "key" : "multiple_interpolations_key_with_variables|==|substitutions.catalogs.plural.one",
+    "localizedString" : "%2$lld каталог рядків!",
+    "localLanguage" : "uk",
+    "projectCatalog" : "XLIFF Localizer Testcases\/SecondCatalog"
+  },
+  {
+    "baseLanguage" : "en",
+    "comment" : "",
+    "defaultString" : "%2$lld string catalogs!",
+    "key" : "multiple_interpolations_key_with_variables|==|substitutions.catalogs.plural.other",
+    "localizedString" : "%2$lld String-Kataloge!",
+    "localLanguage" : "de",
+    "projectCatalog" : "XLIFF Localizer Testcases\/SecondCatalog"
+  },
+  {
+    "baseLanguage" : "en",
+    "comment" : "",
+    "defaultString" : "%2$lld string catalogs!",
+    "key" : "multiple_interpolations_key_with_variables|==|substitutions.catalogs.plural.other",
+    "localizedString" : "%2$lld stringcatalogi!",
+    "localLanguage" : "nl-NL",
+    "projectCatalog" : "XLIFF Localizer Testcases\/SecondCatalog"
+  },
+  {
+    "baseLanguage" : "en",
+    "comment" : "",
+    "defaultString" : "%2$lld string catalogs!",
+    "key" : "multiple_interpolations_key_with_variables|==|substitutions.catalogs.plural.other",
+    "localizedString" : "%2$lld strängkataloger!",
+    "localLanguage" : "sv",
+    "projectCatalog" : "XLIFF Localizer Testcases\/SecondCatalog"
+  },
+  {
+    "baseLanguage" : "en",
+    "comment" : "",
+    "defaultString" : "%2$lld string catalogs!",
+    "key" : "multiple_interpolations_key_with_variables|==|substitutions.catalogs.plural.other",
+    "localizedString" : "%2$lld каталогів рядків!",
+    "localLanguage" : "uk",
+    "projectCatalog" : "XLIFF Localizer Testcases\/SecondCatalog"
+  },
+  {
+    "baseLanguage" : "en",
+    "comment" : "",
+    "defaultString" : "%2$lld string catalogs!",
+    "key" : "multiple_interpolations_key_with_variables|==|substitutions.catalogs.plural.other",
+    "localizedString" : "%2$lld 字符串目录！",
+    "localLanguage" : "zh-Hans",
+    "projectCatalog" : "XLIFF Localizer Testcases\/SecondCatalog"
+  },
+  {
+    "baseLanguage" : "en",
+    "comment" : "",
+    "defaultString" : "%1$lld localizable strings",
+    "key" : "multiple_interpolations_key_with_variables|==|substitutions.strings.plural.few",
+    "localizedString" : "%1$lld локалізованих рядків",
+    "localLanguage" : "uk",
+    "projectCatalog" : "XLIFF Localizer Testcases\/SecondCatalog"
+  },
+  {
+    "baseLanguage" : "en",
+    "comment" : "",
+    "defaultString" : "%1$lld localizable strings",
+    "key" : "multiple_interpolations_key_with_variables|==|substitutions.strings.plural.many",
+    "localizedString" : "%1$lld локалізованих рядків",
+    "localLanguage" : "uk",
+    "projectCatalog" : "XLIFF Localizer Testcases\/SecondCatalog"
+  },
+  {
+    "baseLanguage" : "en",
+    "comment" : "",
+    "defaultString" : "%1$lld localizable string",
+    "key" : "multiple_interpolations_key_with_variables|==|substitutions.strings.plural.one",
+    "localizedString" : "%1$lld lokalisierbare Zeichenfolge",
+    "localLanguage" : "de",
+    "projectCatalog" : "XLIFF Localizer Testcases\/SecondCatalog"
+  },
+  {
+    "baseLanguage" : "en",
+    "comment" : "",
+    "defaultString" : "%1$lld localizable string",
+    "key" : "multiple_interpolations_key_with_variables|==|substitutions.strings.plural.one",
+    "localizedString" : "%1$lld lokaliseerbare tekenreeks",
+    "localLanguage" : "nl-NL",
+    "projectCatalog" : "XLIFF Localizer Testcases\/SecondCatalog"
+  },
+  {
+    "baseLanguage" : "en",
+    "comment" : "",
+    "defaultString" : "%1$lld localizable string",
+    "key" : "multiple_interpolations_key_with_variables|==|substitutions.strings.plural.one",
+    "localizedString" : "%1$lld lokaliserbar sträng",
+    "localLanguage" : "sv",
+    "projectCatalog" : "XLIFF Localizer Testcases\/SecondCatalog"
+  },
+  {
+    "baseLanguage" : "en",
+    "comment" : "",
+    "defaultString" : "%1$lld localizable string",
+    "key" : "multiple_interpolations_key_with_variables|==|substitutions.strings.plural.one",
+    "localizedString" : "%1$lld локалізований рядок",
+    "localLanguage" : "uk",
+    "projectCatalog" : "XLIFF Localizer Testcases\/SecondCatalog"
+  },
+  {
+    "baseLanguage" : "en",
+    "comment" : "",
+    "defaultString" : "%1$lld localizable strings",
+    "key" : "multiple_interpolations_key_with_variables|==|substitutions.strings.plural.other",
+    "localizedString" : "%1$lld lokalisierbare Zeichenfolgen",
+    "localLanguage" : "de",
+    "projectCatalog" : "XLIFF Localizer Testcases\/SecondCatalog"
+  },
+  {
+    "baseLanguage" : "en",
+    "comment" : "",
+    "defaultString" : "%1$lld localizable strings",
+    "key" : "multiple_interpolations_key_with_variables|==|substitutions.strings.plural.other",
+    "localizedString" : "%1$lld lokaliseerbare tekenreeksen",
+    "localLanguage" : "nl-NL",
+    "projectCatalog" : "XLIFF Localizer Testcases\/SecondCatalog"
+  },
+  {
+    "baseLanguage" : "en",
+    "comment" : "",
+    "defaultString" : "%1$lld localizable strings",
+    "key" : "multiple_interpolations_key_with_variables|==|substitutions.strings.plural.other",
+    "localizedString" : "%1$lld lokaliserbara strängar",
+    "localLanguage" : "sv",
+    "projectCatalog" : "XLIFF Localizer Testcases\/SecondCatalog"
+  },
+  {
+    "baseLanguage" : "en",
+    "comment" : "",
+    "defaultString" : "%1$lld localizable strings",
+    "key" : "multiple_interpolations_key_with_variables|==|substitutions.strings.plural.other",
+    "localizedString" : "%1$lld локалізованих рядків",
+    "localLanguage" : "uk",
+    "projectCatalog" : "XLIFF Localizer Testcases\/SecondCatalog"
+  },
+  {
+    "baseLanguage" : "en",
+    "comment" : "",
+    "defaultString" : "%1$lld localizable strings",
+    "key" : "multiple_interpolations_key_with_variables|==|substitutions.strings.plural.other",
+    "localizedString" : "%1$lld 个可本地化字符串",
+    "localLanguage" : "zh-Hans",
+    "projectCatalog" : "XLIFF Localizer Testcases\/SecondCatalog"
+  },
+  {
+    "baseLanguage" : "en",
+    "comment" : "",
+    "defaultString" : "This is the iPad variant",
+    "key" : "string_variant_per_device|==|device.ipad",
+    "localizedString" : "Dies ist die iPad-Variante",
+    "localLanguage" : "de",
+    "projectCatalog" : "XLIFF Localizer Testcases\/SecondCatalog"
+  },
+  {
+    "baseLanguage" : "en",
+    "comment" : "",
+    "defaultString" : "This is the iPad variant",
+    "key" : "string_variant_per_device|==|device.ipad",
+    "localizedString" : "Dit is de iPad-variant",
+    "localLanguage" : "nl-NL",
+    "projectCatalog" : "XLIFF Localizer Testcases\/SecondCatalog"
+  },
+  {
+    "baseLanguage" : "en",
+    "comment" : "",
+    "defaultString" : "This is the iPad variant",
+    "key" : "string_variant_per_device|==|device.ipad",
+    "localizedString" : "Detta är iPad-varianten",
+    "localLanguage" : "sv",
+    "projectCatalog" : "XLIFF Localizer Testcases\/SecondCatalog"
+  },
+  {
+    "baseLanguage" : "en",
+    "comment" : "",
+    "defaultString" : "This is the iPad variant",
+    "key" : "string_variant_per_device|==|device.ipad",
+    "localizedString" : "Це варіант iPad",
+    "localLanguage" : "uk",
+    "projectCatalog" : "XLIFF Localizer Testcases\/SecondCatalog"
+  },
+  {
+    "baseLanguage" : "en",
+    "comment" : "",
+    "defaultString" : "This is the iPad variant",
+    "key" : "string_variant_per_device|==|device.ipad",
+    "localizedString" : "这是 iPad 版本",
+    "localLanguage" : "zh-Hans",
+    "projectCatalog" : "XLIFF Localizer Testcases\/SecondCatalog"
+  },
+  {
+    "baseLanguage" : "en",
+    "comment" : "",
+    "defaultString" : "This is the iPhone variant.",
+    "key" : "string_variant_per_device|==|device.iphone",
+    "localizedString" : "Dies ist die iPhone-Variante.",
+    "localLanguage" : "de",
+    "projectCatalog" : "XLIFF Localizer Testcases\/SecondCatalog"
+  },
+  {
+    "baseLanguage" : "en",
+    "comment" : "",
+    "defaultString" : "This is the iPhone variant.",
+    "key" : "string_variant_per_device|==|device.iphone",
+    "localizedString" : "Dit is de iPhone-variant.",
+    "localLanguage" : "nl-NL",
+    "projectCatalog" : "XLIFF Localizer Testcases\/SecondCatalog"
+  },
+  {
+    "baseLanguage" : "en",
+    "comment" : "",
+    "defaultString" : "This is the iPhone variant.",
+    "key" : "string_variant_per_device|==|device.iphone",
+    "localizedString" : "Detta är iPhone-varianten.",
+    "localLanguage" : "sv",
+    "projectCatalog" : "XLIFF Localizer Testcases\/SecondCatalog"
+  },
+  {
+    "baseLanguage" : "en",
+    "comment" : "",
+    "defaultString" : "This is the iPhone variant.",
+    "key" : "string_variant_per_device|==|device.iphone",
+    "localizedString" : "Це варіант iPhone.",
+    "localLanguage" : "uk",
+    "projectCatalog" : "XLIFF Localizer Testcases\/SecondCatalog"
+  },
+  {
+    "baseLanguage" : "en",
+    "comment" : "",
+    "defaultString" : "This is the iPhone variant.",
+    "key" : "string_variant_per_device|==|device.iphone",
+    "localizedString" : "这是 iPhone 版本。",
+    "localLanguage" : "zh-Hans",
+    "projectCatalog" : "XLIFF Localizer Testcases\/SecondCatalog"
+  },
+  {
+    "baseLanguage" : "en",
+    "comment" : "",
+    "defaultString" : "This is the string variant for a device other than iPhone or iPad",
+    "key" : "string_variant_per_device|==|device.other",
+    "localizedString" : "Dies ist die String-Variante für ein anderes Gerät als iPhone oder iPad",
+    "localLanguage" : "de",
+    "projectCatalog" : "XLIFF Localizer Testcases\/SecondCatalog"
+  },
+  {
+    "baseLanguage" : "en",
+    "comment" : "",
+    "defaultString" : "This is the string variant for a device other than iPhone or iPad",
+    "key" : "string_variant_per_device|==|device.other",
+    "localizedString" : "Dit is de stringvariant voor een ander apparaat dan iPhone of iPad",
+    "localLanguage" : "nl-NL",
+    "projectCatalog" : "XLIFF Localizer Testcases\/SecondCatalog"
+  },
+  {
+    "baseLanguage" : "en",
+    "comment" : "",
+    "defaultString" : "This is the string variant for a device other than iPhone or iPad",
+    "key" : "string_variant_per_device|==|device.other",
+    "localizedString" : "Detta är strängvarianten för en annan enhet än iPhone eller iPad",
+    "localLanguage" : "sv",
+    "projectCatalog" : "XLIFF Localizer Testcases\/SecondCatalog"
+  },
+  {
+    "baseLanguage" : "en",
+    "comment" : "",
+    "defaultString" : "This is the string variant for a device other than iPhone or iPad",
+    "key" : "string_variant_per_device|==|device.other",
+    "localizedString" : "Це варіант рядка для пристроїв, відмінних від iPhone або iPad",
+    "localLanguage" : "uk",
+    "projectCatalog" : "XLIFF Localizer Testcases\/SecondCatalog"
+  },
+  {
+    "baseLanguage" : "en",
+    "comment" : "",
+    "defaultString" : "This is the string variant for a device other than iPhone or iPad",
+    "key" : "string_variant_per_device|==|device.other",
+    "localizedString" : "这是 iPhone 或 iPad 以外的设备的字符串变体",
+    "localLanguage" : "zh-Hans",
+    "projectCatalog" : "XLIFF Localizer Testcases\/SecondCatalog"
+  },
+  {
+    "baseLanguage" : "en",
+    "comment" : "Bundle name",
+    "defaultString" : "XLIFF Localizer Testcases",
+    "key" : "CFBundleName",
+    "localizedString" : "XLIFF-Localizer-Testfälle",
+    "localLanguage" : "de",
+    "projectCatalog" : "XLIFF Localizer Testcases\/XLIFF Localizer Testcases-InfoPlist"
+  },
+  {
+    "baseLanguage" : "en",
+    "comment" : "Bundle name",
+    "defaultString" : "XLIFF Localizer Testcases",
+    "key" : "CFBundleName",
+    "localizedString" : "XLIFF Localizer-testcases",
+    "localLanguage" : "nl-NL",
+    "projectCatalog" : "XLIFF Localizer Testcases\/XLIFF Localizer Testcases-InfoPlist"
+  },
+  {
+    "baseLanguage" : "en",
+    "comment" : "Bundle name",
+    "defaultString" : "XLIFF Localizer Testcases",
+    "key" : "CFBundleName",
+    "localizedString" : "XLIFF Localizer-testfall",
+    "localLanguage" : "sv",
+    "projectCatalog" : "XLIFF Localizer Testcases\/XLIFF Localizer Testcases-InfoPlist"
+  },
+  {
+    "baseLanguage" : "en",
+    "comment" : "Bundle name",
+    "defaultString" : "XLIFF Localizer Testcases",
+    "key" : "CFBundleName",
+    "localizedString" : "Тестові приклади локалізатора XLIFF",
+    "localLanguage" : "uk",
+    "projectCatalog" : "XLIFF Localizer Testcases\/XLIFF Localizer Testcases-InfoPlist"
+  },
+  {
+    "baseLanguage" : "en",
+    "comment" : "Bundle name",
+    "defaultString" : "XLIFF Localizer Testcases",
+    "key" : "CFBundleName",
+    "localizedString" : "XLIFF 定位器测试用例",
+    "localLanguage" : "zh-Hans",
+    "projectCatalog" : "XLIFF Localizer Testcases\/XLIFF Localizer Testcases-InfoPlist"
+  }
+]
