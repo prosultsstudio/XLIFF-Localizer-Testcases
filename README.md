@@ -1,8 +1,12 @@
 ![app_overview_xliff_string_catalog_localizer](https://github.com/prosultsstudio/XLIFF-Localizer-Testcases/assets/16436079/cb2ea7e3-01bb-44b6-9ee4-72346c0fca65)
-Use this source code to test localizing your Apple platform apps fast and easy with the Xcode String Catalog Localizer app for macOS.
+Use the demo source code in this repoistory to test localizing your Apple platform apps fast and easy with the Xcode String Catalog Localizer app for macOS.
+This picture shows a high level overview of how this works. Detailed steps for one possible workflow, manual localization, are:
 
 1. Pull the source code in this repository to your Xcode
-  - You will notice that both String Catalogs have their five localizations 0% complete and that all six previews of Contentview are English (the base language).
+![xliff-localizer-testcases-github-step-1](https://github.com/prosultsstudio/XLIFF-Localizer-Testcases/assets/16436079/c2a62247-0685-4a38-83ec-4366679befcf)
+  - This app still needs to be localized: both String Catalogs have their five localizations 0% complete.
+  - And there are no strings in Swedish but only the English ones by default (light grey).
+![xliff-localizer-testcases-github-step-1-b](https://github.com/prosultsstudio/XLIFF-Localizer-Testcases/assets/16436079/0cf23274-fba2-4bbd-8561-22176bfa095a)
 
 2. Open XLIFF Localizer Testcases in Xcode and select Product -> Export Localizations
    - Uncheck the default localization (English). This one does not require translation.
