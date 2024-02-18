@@ -74,6 +74,6 @@ This picture shows a high level overview of how this works. Detailed steps for o
 	- Hopefully Xcode 16 will offer multiple select here 😀.
 
 Good luck with testing! 
-And with transitioning to String Catalogs with ease.
+And with transitioning to String Catalogs with ease. This video shows how to do that: https://developer.apple.com/videos/play/wwdc2023/10155/
 
 More information about localization workflows supported by the XLIFF String Catalog Localizer app on: https://prosultsstudio.com/xliff-string-catalog-localizer-app/
