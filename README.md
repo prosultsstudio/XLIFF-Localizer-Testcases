@@ -51,18 +51,29 @@ This picture shows a high level overview of how this works. Detailed steps for o
 
 6. Open the Localizations folder you exported with Xcode, via File -> Open... . Then select the sv.xcloc file and inspect the contents with "open package". Click on Localizable to get this view of the Swedish XLIFF file:
 ![xliff-localizer-testcases-github-step-6-b](https://github.com/prosultsstudio/XLIFF-Localizer-Testcases/assets/16436079/d75b9470-89fb-4d07-9ffd-dbd855e0ba69)
-	- This is an optional step. You can also see the results in your String Catalog after Import and the either fix manually or discard changes and repeat from step 2. (export).
+	- The localizations in Swedish in the sv.xcloc file (red border) look complete and correct. Ready to move them to the string catalog in Xcode (above the red border).
+ - This inspection is an optional step. You can also see the results in your String Catalog after Import and the either fix manually or discard changes and repeat from step 2. (export).
 
+7. In Xcode, select Product -> Import Localizations.
+![xliff-localizer-testcases-github-step-7](https://github.com/prosultsstudio/XLIFF-Localizer-Testcases/assets/16436079/25882a2b-a286-4ebb-9e46-f9cb9004562b)
 
-8. 
+	- Select the sv.xcloc file and again click on Import:
+	![xliff-localizer-testcases-github-step-7-b](https://github.com/prosultsstudio/XLIFF-Localizer-Testcases/assets/16436079/e5bfe4fc-12ca-4363-8b79-3200e068d4d9)
 
+	- Xcode accepts the translated XLIFF file except for the missing localization of the copyright notice. That is not relevant for this test, so click on Import for the third and last time:
+	![xliff-localizer-testcases-github-step-7-c](https://github.com/prosultsstudio/XLIFF-Localizer-Testcases/assets/16436079/a10feb63-0b87-40ab-a757-ef942968519a)
 
-9. In Xcode, select Product -> Import Localizations.
-   - Select the Localizations folder you created in step 2. via Export Localizations.
-   - Pick an .xcloc package (one for each localization), check for any mismatches in XML structure (there should be none) and click Import.
-   - This localization now has a green checkmark in both String Catalogs, indicating 100% localized.
-   - Repeat for the other four localizations (hopefully Xcode 16 will offer multiple select here).
+   - This localization now has a green checkmark in both String Catalogs, indicating 100% localized. Congratulations!
+	![xliff-localizer-testcases-github-step-7-d](https://github.com/prosultsstudio/XLIFF-Localizer-Testcases/assets/16436079/198faac6-eefb-4561-8ee0-6b9676f6e427)
+	- The state of the individual strings is also green (on the far right of the screen). While the state was "New" before the import.
   
-10. Again in Xcode, select ContentView and check each of the five localized Previews. Each now shows the correct language, including all interpolations, variants by device and pluralizations.
+8. Still in Xcode, select ContentView and check the Swedish localized Preview again. Each string is translated and shows all interpolations, variants by device and pluralizations like the English preview (base language).
+![xliff-localizer-testcases-github-step-8](https://github.com/prosultsstudio/XLIFF-Localizer-Testcases/assets/16436079/e82a4ad1-7e22-4f4f-9c29-7b7cf0a8024b)
+
+9. Repeat for the other four localizations. 
+	- Hopefully Xcode 16 will offer multiple select here 😀.
+
+Good luck with testing! 
+And with transitioning to String Catalogs with ease.
 
 More information about localization workflows supported by the XLIFF String Catalog Localizer app on: https://prosultsstudio.com/xliff-string-catalog-localizer-app/
