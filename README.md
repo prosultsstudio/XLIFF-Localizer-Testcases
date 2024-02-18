@@ -1,4 +1,5 @@
-Use this source code to test localizing your Apple platform apps fast and easy with the Xcode String Catalog Localizer app for macOS.
+U![app_overview_xliff_string_catalog_localizer](https://github.com/prosultsstudio/XLIFF-Localizer-Testcases/assets/16436079/cb2ea7e3-01bb-44b6-9ee4-72346c0fca65)
+se this source code to test localizing your Apple platform apps fast and easy with the Xcode String Catalog Localizer app for macOS.
 
 1. Pull the source code in this repository to your Xcode
   - You will notice that both String Catalogs have their five localizations 0% complete and that all six previews of Contentview are English (the base language).
